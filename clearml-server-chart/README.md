@@ -6,7 +6,7 @@
 [![GitHub version](https://img.shields.io/github/release-pre/allegroai/clearml-server.svg)](https://img.shields.io/github/release-pre/allegroai/clearml-server.svg)
 [![PyPI status](https://img.shields.io/badge/status-beta-yellow.svg)](https://img.shields.io/badge/status-beta-yellow.svg)
 
-## Introduction
+## Introduction 2
 
 The **clearml-server** is the backend service infrastructure for [ClearML](https://github.com/allegroai/clearml).
 It allows multiple users to collaborate and manage their experiments.
